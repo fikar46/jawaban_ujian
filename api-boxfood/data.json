@@ -1,0 +1,353 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "fikar",
+      "password": "fikar123",
+      "email": "mzulfikarm@outlook.com"
+    },
+    {
+      "id": 2,
+      "username": "rifa",
+      "password": "rifa1209",
+      "email": "rifaauliaafifah@gmail.com"
+    },
+    {
+      "id": 3,
+      "username": "radikarosy",
+      "email": "radikarosy@gmail.com",
+      "password": "fikar123",
+      "phone": "082210996848"
+    },
+    {
+      "username": "udin",
+      "email": "udin@gmail.com",
+      "password": "udin123",
+      "phone": "0822222222",
+      "id": 4
+    },
+    {
+      "username": "udinsedunia",
+      "email": "fikar@gmail.com",
+      "password": "fikar123",
+      "phone": "0822109986854",
+      "id": 5
+    }
+  ],
+  "produk": [
+    {
+      "id": 1,
+      "namaproduk": "Whole Grain Pasta",
+      "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+      "caption": "with Brussels Sprouts",
+      "description": "In this easy pasta dish, our beef and brussels sprouts get pops of bright flavor from briny capers and Calabrian chile paste—a perfect partner for the hearty texture of whole grain pipe rigate.",
+      "harga": 50000
+    },
+    {
+      "namaproduk": "Cajun-Spiced Chicken",
+      "image": "https://media.blueapron.com/recipes/3536/c_main_dish_images/1542396777-364-0023-3542/1217_2PP_Cajun-Chicken-Farro_032_Crop_Right_high_menu_thumb.jpg",
+      "caption": "with Warm Grain Salad",
+      "description": "To make our grain salad, hearty farro and tender bites of kale and roasted red peppers are brought together by an irresistibly creamy duo of créme fraîche and crema bel paese cheese––making a hearty bed for blackened chicken breasts.",
+      "id": 2,
+      "harga": 50000
+    },
+    {
+      "namaproduk": "Sheet Pan Miso Salmon",
+      "image": "https://media.blueapron.com/recipes/3443/c_main_dish_images/1542393395-364-0025-3670/1217_2PF_Miso-Salmon_008_Web_right_high_menu_thumb.jpg",
+      "caption": "with Sesame Rice & Roasted Broccoli",
+      "description": "Salmon fillets get a flavorful coating of savory white miso and sweet mirin before roasting in the oven alongside broccoli florets, finished with a topping of pickled peppers, for exciting brightness in every bite.",
+      "id": 3,
+      "harga": 50000
+    },
+    {
+      "namaproduk": "Pesto & Kale PastaSheet Pan Miso Salmon",
+      "image": "https://media.blueapron.com/recipes/3534/c_main_dish_images/1542397561-364-0037-3316/1217_2PV1_Pesto-Fusili_CheeseOpt_030_Web_Right_high_menu_thumb.jpg",
+      "caption": "with Goat Cheesewith Sesame Rice & Roasted Broccoli",
+      "description": "To bring together springy fusilli and tender sautéed kale, we’re tossing them with our vibrant basil pesto and creamy, tangy goat cheese.",
+      "id": 4,
+      "harga": 50000
+    },
+    {
+      "namaproduk": "Zucchini & Black Bean Enchiladas",
+      "image": "https://media.blueapron.com/recipes/3533/c_main_dish_images/1542398293-364-0033-7063/1217_2PV2_Black-Bean-Enchiladas_035_Crop_Right_high_menu_thumb.jpg",
+      "caption": "with Creamy Ancho Sauce",
+      "description": "For these crowd-pleasing enchiladas, a hearty medley of zucchini, black beans, and Mexican-spiced rice fill soft flour tortillas—all topped with a smoky sauce turned deliciously silky with a bit of sour cream.",
+      "id": 5,
+      "harga": 50000
+    },
+    {
+      "namaproduk": "Naan Grilled Cheese Sandwiches",
+      "image": "https://media.blueapron.com/recipes/3449/c_main_dish_images/1542398634-364-0043-8818/1217_2PV3_Naan-Grilled-Cheese_076_Crop_Right_high_menu_thumb.jpg",
+      "caption": "with Pear & Tomato Chutney",
+      "description": "Between slices of irresistibly golden brown naan (a classic Indian bread), a layer of melted monterey jack cheese finds sweet and savory compliment from sliced pear and spiced tomato chutney.",
+      "id": 6,
+      "harga": 50000
+    }
+  ],
+  "cart": [],
+  "history": [
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": "50000",
+          "jumlah": "3",
+          "totalharga": 150000,
+          "date": "12/11/2018, 4:22:14 PM",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "2",
+          "totalharga": 100000,
+          "date": "12/11/2018, 4:31:23 PM",
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "2",
+          "namaproduk": "Cajun-Spiced Chicken",
+          "image": "https://media.blueapron.com/recipes/3536/c_main_dish_images/1542396777-364-0023-3542/1217_2PP_Cajun-Chicken-Farro_032_Crop_Right_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "2",
+          "totalharga": 100000,
+          "date": "12/11/2018, 4:32:49 PM",
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "4",
+          "namaproduk": "Pesto ",
+          "image": "https://media.blueapron.com/recipes/3534/c_main_dish_images/1542397561-364-0037-3316/1217_2PV1_Pesto-Fusili_CheeseOpt_030_Web_Right_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "1",
+          "totalharga": 50000,
+          "date": "12/11/2018, 4:34:16 PM",
+          "id": 1
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "2",
+          "totalharga": 100000,
+          "date": "12/11/2018, 4:34:25 PM",
+          "id": 2
+        },
+        {
+          "username": "fikar",
+          "produkid": "6",
+          "namaproduk": "Naan Grilled Cheese Sandwiches",
+          "image": "https://media.blueapron.com/recipes/3449/c_main_dish_images/1542398634-364-0043-8818/1217_2PV3_Naan-Grilled-Cheese_076_Crop_Right_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "1",
+          "totalharga": 50000,
+          "date": "12/11/2018, 4:34:34 PM",
+          "id": 3
+        },
+        {
+          "username": "fikar",
+          "produkid": "4",
+          "namaproduk": "Pesto ",
+          "image": "https://media.blueapron.com/recipes/3534/c_main_dish_images/1542397561-364-0037-3316/1217_2PV1_Pesto-Fusili_CheeseOpt_030_Web_Right_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "7",
+          "totalharga": 350000,
+          "date": "12/11/2018, 4:34:57 PM",
+          "id": 4
+        }
+      ],
+      "id": 4
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "3",
+          "totalharga": 150000,
+          "date": "12/11/2018, 4:35:38 PM",
+          "id": 1
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "1",
+          "totalharga": 50000,
+          "date": "12/11/2018, 4:56:30 PM",
+          "id": 2
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "4",
+          "totalharga": 200000,
+          "date": "12/11/2018, 4:56:49 PM",
+          "id": 3
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "10",
+          "totalharga": 500000,
+          "date": "12/11/2018, 5:04:18 PM",
+          "id": 4
+        }
+      ],
+      "id": 5
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "3",
+          "totalharga": 150000,
+          "date": "12/11/2018, 4:35:38 PM",
+          "id": 1
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "1",
+          "totalharga": 50000,
+          "date": "12/11/2018, 4:56:30 PM",
+          "id": 2
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "4",
+          "totalharga": 200000,
+          "date": "12/11/2018, 4:56:49 PM",
+          "id": 3
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "10",
+          "totalharga": 500000,
+          "date": "12/11/2018, 5:04:18 PM",
+          "id": 4
+        }
+      ],
+      "id": 6
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "1",
+          "totalharga": 50000,
+          "date": "12/11/2018, 5:04:40 PM",
+          "id": 1
+        },
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "2",
+          "totalharga": 100000,
+          "date": "12/11/2018, 5:04:49 PM",
+          "id": 2
+        }
+      ],
+      "id": 7
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "2",
+          "namaproduk": "Cajun-Spiced Chicken",
+          "image": "https://media.blueapron.com/recipes/3536/c_main_dish_images/1542396777-364-0023-3542/1217_2PP_Cajun-Chicken-Farro_032_Crop_Right_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "2",
+          "totalharga": 100000,
+          "date": "12/11/2018, 5:25:29 PM",
+          "id": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "username": "fikar",
+      "order": [
+        {
+          "username": "fikar",
+          "produkid": "1",
+          "namaproduk": "Whole Grain Pasta",
+          "image": "https://media.blueapron.com/recipes/3444/c_main_dish_images/1544131137-364-0020-4553/1217_2PM_Pasta-Beef-Ragu0866_Right_WEB_high_menu_thumb.jpg",
+          "harga": 50000,
+          "jumlah": "3",
+          "totalharga": 150000,
+          "date": "12/11/2018, 5:51:18 PM",
+          "id": 1
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
